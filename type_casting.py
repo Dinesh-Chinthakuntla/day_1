@@ -1,0 +1,13 @@
+a=98765430
+b=bin(a)
+c=oct(a)
+d=hex(a)
+print("value of a is : ",a)
+print("Binary format of a is : ",b)
+print("Octal format of a is : ",c)
+print("Hexa format of a is : ",d)
+print("Data type of b : ",type(b))
+print("Data type of c : ",type(c))
+print("Data type of d : ",type(d))
+e=int(a)
+print("int form of e is : ",e)

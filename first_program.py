@@ -1,0 +1,2 @@
+print("HELLO WORLD!!")
+print("Sri Good Will Computers (also known as Sri Goodwill Computer Center) is a prominent computer education and service provider in Madanapalle, established in 2008 and offering coaching in Tally and other computer skills")
